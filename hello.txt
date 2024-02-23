@@ -1,3 +1,4 @@
 Line 1 and 2 are moved down on dev1 1
 First line(now second line) on this file !(modified in dev1)
 Second line on this file before opening dev1 branch !
+line 4 added on dev1 !
